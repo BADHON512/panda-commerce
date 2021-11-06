@@ -21,3 +21,43 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+padding: 10px 20px;
+border-radius: 10px;
+}
+.cat1{
+background-color: yellow;
+;
+}
+.cat2{
+
+background-color: purple;
+}
+.cat3{
+background-color: blue;
+}
+.d-flex h1{
+color: white;
+
+}
+.d-flex img{
+    width: 100px;
+}
+.col{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+.mr{
+    margin-top: 0px;
+}
+#Subscribe{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
